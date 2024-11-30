@@ -1,0 +1,8 @@
+{
+    "name": "SunPixel",
+    "age": 21,
+    "city": "Moscow",
+    "hobbies": ["Reading", "Programming", "Sport"],
+    "is_student": true,
+    "favorite_numbers": [7, 13, 17, 19, 23]
+  }
